@@ -2,11 +2,10 @@
 using namespace std;;
 
 /*
-    Problem: Given an array a[] of size n and a number k
-              
+    Source: https://codeforces.com/contest/1706/problem/D2
+    Problem:  Given an array a[] of size n and a number k
               Find an array p[] of size n that minimizes the cost (max(a[i]/p[i]) - min(a[i]/p[i])) with 
               1 <= p[i] <= k for all i = 1 -> n
-
               Print the cost.
 */
 
